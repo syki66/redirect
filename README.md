@@ -1,1 +1,1 @@
-# redirect
+# redirect page example
